@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<people>
+  <person>
+    <name>David Tennant</name>
+    <dob>18-Apr-1971</dob>
+    <description>No description supplied</description>
+    <role>Unknown</role>
+  </person>
+  <person>
+    <name>Peter Capaldi</name>
+    <dob>14-Apr-1958</dob>
+    <description>No description supplied</description>
+    <role>Unknown</role>
+  </person>
+  <person>
+    <name>Matt Smith</name>
+    <dob>28-Nov-1982</dob>
+    <description>Matthew Robert Smith is an English actor and voice actor. He is best known for his role as the 11th incarnation of The Doctor in the BBC series Doctor Who.</description>
+    <role>The Eleventh Doctor</role>
+  </person>
+  <person>
+    <name>Peter Davison</name>
+    <dob>01-Feb-1970</dob>
+    <description>Peter Davison (born Peter Malcolm Gordon Moffett on 13 April 1951) played the Fifth Doctor from 1981-1984 (returning for a number of specials). He is father-in-law to the Tenth Doctor David Tennant.</description>
+    <role>The Fifth Doctor</role>
+  </person>
+  <person>
+    <name>Richard Hurndall</name>
+    <dob>03-Dec-1910</dob>
+    <description>In 1983, to celebrate the 20th anniversary of the BBC science fiction television series Doctor Who, producer John Nathan-Turner planned a special event, The Five Doctors, a 90-minute episode to feature the four of the five actors who had at that point played the role of the Doctor. William Hartnell, the actor who originated the role, had died in 1975. Hurndall eventually won the role of the First Doctor, playing him as acerbic and temperamental but in some ways wiser than his successors. His casting in the role was approved by Hartnell's widow, Heather. When Tom Baker, who played the Fourth Doctor, declined to appear in the programme, Hurndall's role was expanded slightly to have the First Doctor take a greater part in the action.</description>
+    <role>The First Doctor (as Hartnell)</role>
+  </person>
+  <person>
+    <name>Patrick Troughton</name>
+    <dob>25-Apr-1920</dob>
+    <description>Patrick Troughton was the second actor to play the role of the Doctor, succeeding William Hartnell in 1966. He played the Doctor from 1966 to 1969 (returning for numerous specials).</description>
+    <role>The Second Doctor</role>
+  </person>
+  <person>
+    <name>Jon Pertwee</name>
+    <dob>07-Aug-1919</dob>
+    <description>John Devon Roland Pertwee was the third actor to play the Doctor succeeding Patrick Troughton. Pertwee played the Doctor from 1970 and 1974.</description>
+    <role>The Third Doctor</role>
+  </person>
+  <person>
+    <name>Tom Baker</name>
+    <dob>20-Feb-1934</dob>
+    <description>Tom Baker was the fourth actor to play the Doctor and has the longest tenure than any other actor to play the Doctor (portraying the role from 1974 to 1981). Baker's Doctor is highly recognisable from his multi-coloured scarf.</description>
+    <role>The Fourth Doctor</role>
+  </person>
+</people>
